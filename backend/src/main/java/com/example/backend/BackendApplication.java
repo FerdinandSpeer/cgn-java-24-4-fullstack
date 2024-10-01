@@ -10,7 +10,5 @@ public class BackendApplication {
         SpringApplication.run(BackendApplication.class, args);
     }
 
-    //getAll()
-    //Test für den Pull Request
-    //Test für den Pull Request
+    //getAll() method
 }
